@@ -1,16 +1,58 @@
-## Hi there 👋
+# Привет, я Сергей 👋
 
-<!--
-**zaymovskey/zaymovskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчик (React / TypeScript)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Обо мне
+
+* 3+ года опыта во frontend-разработке
+* Специализируюсь на создании продакшн-приложений
+* Уделяю внимание архитектуре, качеству кода и UX
+
+В последние месяцы углублённо занимался разработкой собственных проектов
+для прокачки архитектурных и инженерных навыков
+
+---
+
+## 🔥 Проекты
+
+### 🔹 sing-box-ui
+
+Административная панель для управления конфигурацией sing-box
+**Стек:** Next.js, TypeScript, React Query, Zod, Docker
+
+---
+
+### 🔹 Historical Dates UI
+
+Интерактивный таймлайн с анимацией и круговой навигацией
+**Стек:** React, TypeScript, GSAP
+
+---
+
+### 🔹 my-little-react
+
+Собственная реализация React runtime
+(reconciliation, fiber-дерево, базовые хуки)
+
+---
+
+## 🧠 Навыки
+
+* React / Next.js
+* TypeScript (strict)
+* Архитектура (feature-based)
+* Управление состоянием (React Query, Zustand)
+* Формы (React Hook Form + Zod)
+* Анимации (GSAP)
+* Docker
+
+---
+
+## 📫 Контакты
+
+* Email: [zaymovskey@gmail.com](zaymovskey@gmail.com)
+* Telegram: [https://t.me/bebbert](https://t.me/bebbert)
+
+---
