@@ -15,12 +15,13 @@ Frontend-разработчик (React / TypeScript)
 
 ---
 
-## 🔥 Проекты
+## 🔥 Личные проекты
 
 ### 🔹 sing-box-ui
 
 Административная панель для управления конфигурацией sing-box
 **Стек:** Next.js, TypeScript, React Query, Zod, Docker
+[https://github.com/zaymovskey/sing-box-ui](https://github.com/zaymovskey/sing-box-ui)
 
 ---
 
@@ -28,6 +29,7 @@ Frontend-разработчик (React / TypeScript)
 
 Интерактивный таймлайн с анимацией и круговой навигацией
 **Стек:** React, TypeScript, GSAP
+[https://github.com/zaymovskey/historical-dates-widget](https://github.com/zaymovskey/historical-dates-widget)
 
 ---
 
@@ -35,6 +37,7 @@ Frontend-разработчик (React / TypeScript)
 
 Собственная реализация React runtime
 (reconciliation, fiber-дерево, базовые хуки)
+[https://github.com/zaymovskey/my-little-react](https://github.com/zaymovskey/my-little-react)
 
 ---
 
