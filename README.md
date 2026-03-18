@@ -20,7 +20,7 @@ Frontend-разработчик (React / TypeScript)
 ### 🔹 sing-box-ui
 
 Административная панель для управления конфигурацией sing-box<br>
-[https://github.com/zaymovskey/sing-box-ui](https://github.com/zaymovskey/sing-box-ui)<br>
+[https://github.com/zaymovskey/sing-box-ui](https://github.com/zaymovskey/sing-box-ui)<br><br>
 **Стек:** Next.js, TypeScript, React Query, Zod, Docker
 
 ---
@@ -28,7 +28,7 @@ Frontend-разработчик (React / TypeScript)
 ### 🔹 Historical Dates UI
 
 Интерактивный таймлайн с анимацией и круговой навигацией<br>
-[https://github.com/zaymovskey/historical-dates-widget](https://github.com/zaymovskey/historical-dates-widget)<br>
+[https://github.com/zaymovskey/historical-dates-widget](https://github.com/zaymovskey/historical-dates-widget)<br><br>
 **Стек:** React, TypeScript, GSAP
 
 
@@ -36,10 +36,9 @@ Frontend-разработчик (React / TypeScript)
 
 ### 🔹 my-little-react
 
-Собственная реализация React runtime<br>
-[https://github.com/zaymovskey/my-little-react](https://github.com/zaymovskey/my-little-react)<br>
-(reconciliation, fiber-дерево, базовые хуки)
-
+Собственная реализация React runtime (reconciliation, fiber-дерево, базовые хуки)<br>
+[https://github.com/zaymovskey/my-little-react](https://github.com/zaymovskey/my-little-react)<br><br>
+**Стек:** TypeScript
 
 ---
 
