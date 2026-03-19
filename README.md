@@ -21,7 +21,7 @@ Frontend-разработчик (React / TypeScript)
 
 Административная панель для управления конфигурацией sing-box<br>
 [https://github.com/zaymovskey/sing-box-ui](https://github.com/zaymovskey/sing-box-ui)<br><br>
-**Стек:** Next.js, TypeScript, React Query, Zod, Docker
+**Стек:** Next.js, TypeScript, React Query, Zod, Docker, React Hook Form
 
 ---
 
@@ -46,8 +46,8 @@ Frontend-разработчик (React / TypeScript)
 
 * React / Next.js
 * TypeScript (strict)
-* Архитектура (feature-based)
-* Управление состоянием (React Query, Zustand)
+* Архитектура (feature-based), FSD
+* Управление состоянием (React Query, Redux Toolkit)
 * Формы (React Hook Form + Zod)
 * Анимации (GSAP)
 * Docker
