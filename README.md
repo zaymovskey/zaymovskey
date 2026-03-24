@@ -27,7 +27,7 @@ Frontend-разработчик (React / TypeScript)
 
 ### 🔹 Historical Dates UI
 
-Интерактивный таймлайн с анимацией и круговой навигацией<br>
+Интерактивный таймлайн виджет с анимацией и круговой навигацией<br>
 [https://github.com/zaymovskey/historical-dates-widget](https://github.com/zaymovskey/historical-dates-widget)<br><br>
 **Стек:** React, TypeScript, GSAP
 
