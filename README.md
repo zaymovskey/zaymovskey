@@ -19,7 +19,7 @@ Frontend-разработчик (React / TypeScript)
 
 ### 🔹 sing-box-ui
 
-Административная панель для управления конфигурацией sing-box<br>
+Административная панель для управления VPN-движком sing-box<br>
 [https://github.com/zaymovskey/sing-box-ui](https://github.com/zaymovskey/sing-box-ui)<br><br>
 **Стек:** Next.js, TypeScript, React Query, Zod, Docker, React Hook Form
 
